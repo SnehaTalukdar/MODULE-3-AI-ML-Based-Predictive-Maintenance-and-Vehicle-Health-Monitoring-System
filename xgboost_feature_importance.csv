@@ -1,0 +1,10 @@
+Feature,Importance
+operating_hours,0.13771948
+oil_pressure,0.11989544
+vibration,0.11940617
+coolant_temperature,0.113041386
+rpm,0.10554272
+engine_temperature,0.10479045
+vehicle_speed,0.10162927
+battery_voltage,0.099213876
+fuel_consumption,0.09876116
